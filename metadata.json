@@ -1,0 +1,5 @@
+{
+  "name": "iMAGEmy",
+  "description": "Um aplicativo para gerar imagens criativas usando seus prompts e fotos, com a tecnologia do modelo Gemini. Anexe uma ou duas fotos, descreva o que você quer criar, e deixe a IA fazer a mágica.",
+  "requestFramePermissions": []
+}
